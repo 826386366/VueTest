@@ -1,7 +1,8 @@
-Vue+axios+ElementUI
+
 # my-project
 
 > A Vue.js project
+Vue+axios+ElementUI
 
 ## Build Setup
 
